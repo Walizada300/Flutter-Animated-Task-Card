@@ -3,7 +3,7 @@
 This project is a **Flutter UI practice** where I recreated a **Figma design** into a pixel-perfect Flutter widget.  
 The card represents a **Fitness Streak Tracker**, showing daily steps, streak progress, and weekly activity.
 
-<img width="971" height="448" alt="Frame 5" src="https://github.com/user-attachments/assets/a6ffb043-e8c3-443b-9017-e41beae258a8" />
+<img width="1920" height="1080" alt="Thumnails App Icon" src="https://github.com/user-attachments/assets/323a0c70-414b-4476-bc78-6485af0bdd0b" />
 
 ---
 
