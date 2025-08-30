@@ -30,5 +30,5 @@ The card represents a **Fitness Streak Tracker**, showing daily steps, streak pr
    git clone https://github.com/Walizada300/Flutter-Animated-Task-Card.git
    cd flutter-figma-streak-card
    flutter pub get
-   flutter run | macOS | Windows
+   flutter run
    ```
