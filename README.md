@@ -24,13 +24,6 @@ The card represents a **Fitness Streak Tracker**, showing daily steps, streak pr
 
 ---
 
-## 📸 Screenshot
-Here is the recreated UI from Flutter:
-
-![App Screenshot](./assets/screenshot.png)
-
----
-
 ## ⚡ How to Run
 1. Clone this repo:
    ```bash
